@@ -1,0 +1,53 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Josh McGrath"
+theme = "goa"
+author = "Josh McGrath"
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+
+
+[params]
+author = "Josh McGrath"
+intro = "Research Staff, UW Madison"
+description = "nil"
+authorimage = "headshot.jpg"
+dateformat = "Jan 2, 2006"
+
+
+## Social Accounts
+[params.social]
+github = "josmcg"
+linkedin = "joshmcgrath"
+twitter = "joshuawmcgrath"
+email = "mcgrath@cs.wisc.edu"
+
+## Extras
+[params.extra]
+copyright = "© 2019. Josh McGrath" 
+poweredby = true
+hightlightjs = true
+
+
+## Main Menu
+[[menu.main]]
+    name = "blog"
+    weight = 100
+    identifier = "blog"
+    url = "/blog/"
+[[menu.main]]
+    name = "about"
+    identifier = "about"
+    weight = 200
+    url = "/about/"
+[[menu.main]]
+    name = "UW COSMOS"
+    identifier = "cosmos"
+    weight = 300
+    url = "https://github.com/UW-COSMOS/project-docs"
+[[menu.main]]
+    name = "holoclean"
+    identifier = "holoclean"
+    weight = 300
+    url = "http://www.holoclean.io/"
