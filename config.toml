@@ -10,8 +10,10 @@ publishdir = "public"
 
 [params]
 author = "Josh McGrath"
-intro = "Research Staff, UW Madison"
-description = "nil"
+intro = " "
+
+description = "I’m a staff member of Theo Rekatsinas’ lab. Our research focuses on how to use machine learning to perform data integration and data enrichment tasks. One of the developers of HoloClean, and a member of the UW COSMOS initiative."
+
 authorimage = "headshot.jpg"
 dateformat = "Jan 2, 2006"
 
@@ -31,11 +33,11 @@ hightlightjs = true
 
 
 ## Main Menu
-[[menu.main]]
-    name = "blog"
-    weight = 100
-    identifier = "blog"
-    url = "/blog/"
+##[[menu.main]]
+##    name = "blog"
+##    weight = 100
+##    identifier = "blog"
+##    url = "/blog/"
 [[menu.main]]
     name = "about"
     identifier = "about"
@@ -50,4 +52,4 @@ hightlightjs = true
     name = "holoclean"
     identifier = "holoclean"
     weight = 300
-    url = "http://www.holoclean.io/"
+    url = "https://github.com/HoloClean/holoclean"
