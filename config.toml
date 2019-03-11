@@ -1,4 +1,4 @@
-baseURL = "http://jw-mcgrath.github.io/"
+baseURL = "https://jw-mcgrath.github.io/"
 languageCode = "en-us"
 title = "Josh McGrath"
 theme = "goa"
