@@ -42,7 +42,7 @@ hightlightjs = true
     name = "about"
     identifier = "about"
     weight = 200
-    url = "/about/"
+    url = "/about/index.html"
 [[menu.main]]
     name = "UW COSMOS"
     identifier = "cosmos"

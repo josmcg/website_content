@@ -1,9 +1,7 @@
-[submodule "themes/goa"]
-	path = themes/goa
-	url = https://github.com/shenoybr/hugo-goa
-
-
-
 [submodule "public"]
 	path = public
 	url = git@github.com:jw-mcgrath/website.git
+
+[submodule "themes/goa"]
+	path = themes/goa
+	url = git@github.com:jw-mcgrath/hugo-goa.git
