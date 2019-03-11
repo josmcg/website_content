@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "http://jw-mcgrath.github.io/jw-mcgrath.github.io"
 languageCode = "en-us"
 title = "Josh McGrath"
 theme = "goa"
@@ -20,7 +20,7 @@ dateformat = "Jan 2, 2006"
 
 ## Social Accounts
 [params.social]
-github = "josmcg"
+github = "jw-mcgrath"
 linkedin = "joshmcgrath"
 twitter = "joshuawmcgrath"
 email = "mcgrath@cs.wisc.edu"
